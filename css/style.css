@@ -1,0 +1,58 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49
+}
+
+/* texts */
+.text-thin {
+	font-weight: 100;
+}
+
+.text-secondtitle {
+	padding-left:2%;
+	color: #7d97ad;
+	font-weight:400;
+	font-size: 38px;
+	margin-top: 1em;
+}
+
+.text-link {
+	color: #2d3c49;
+	font-size: 16px;
+	padding: 1em;
+	font-weight: 100;
+}
+
+
+.title-super {
+	font-size: 60px
+
+}
+
+.description-project {
+	font-size: 38px;
+	font-weight: 400;
+	color: #2d3c49;
+}
+
+.subtitle {
+	font-weight: 300;
+	font-size: 22px;
+}
+
+/* images */
+.title-logo {
+	margin-top: 1.5em;
+}
+
+.negrit-text{
+	font-weight: bold
+}
+/*bar*/
+hr {
+    border: none;
+    height: 5px;
+    background-color: #7d97ad;
+    margin-top: 0.2em;
+    margin-bottom: 2.2em;
+}
