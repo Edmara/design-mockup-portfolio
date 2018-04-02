@@ -1,4 +1,4 @@
-# design-mockup-portfolio
+# Portfolio site
 
 Nanodegree Full-Stack Web Developer Program
 
